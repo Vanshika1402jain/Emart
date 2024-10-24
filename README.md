@@ -25,4 +25,4 @@ product stock management.</p>
 <li>Error free Bill generation</li>
 <li>Zero paper work</li>
 <h1>Preview</h1>
-<video controls><Source src=""></video>
+<a href="https://youtu.be/MlbQ6wvn2Fk?si=a_Mes8XD03n0Ja1E">Preview Link--To see the full Project Working.</a>
